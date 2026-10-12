@@ -1,3 +1,4 @@
+<img width="1917" height="1078" alt="Screenshot 2026-10-05 083042" src="https://github.com/user-attachments/assets/b0ec5e54-7651-42f8-a530-376365d0c76d" />
 # Agar.io Clone (Java Swing / AWT)
 
 Ein in Java entwickeltes 2D-Game-Projekt nach dem Vorbild von **Agar.io**. Das Projekt demonstriert die praktische Anwendung von objektorientierter Programmierung (OOP) sowie die Umsetzung eigener Rendering- und Kollisionslogik mit Java Swing/AWT.
