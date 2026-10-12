@@ -30,3 +30,4 @@ Ein in Java entwickeltes 2D-Game-Projekt nach dem Vorbild von **Agar.io**. Das P
 1. Repository klonen:
    ```bash
    git clone [https://github.com/PrograNinoGit/Agar.io-KLon.git](https://github.com/PrograNinoGit/Agar.io-KLon.git)
+<img width="1127" height="310" alt="image" src="https://github.com/user-attachments/assets/ade58bf5-0505-41aa-a332-8db5625ab98b" />
